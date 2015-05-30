@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="extjsdemo"
+  id="myeclipse.1430209463682"
+  context-root="/extjsdemo"
+  j2ee-spec="5.0"
+  archive="extjsdemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
